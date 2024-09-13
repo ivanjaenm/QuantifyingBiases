@@ -5,4 +5,4 @@ In this work, we perform 1) a comprehensive review of simplicity biases, identif
 
 # Research report
 
-[report_ExperimentalBiases_ivan.pdf](https://github.com/user-attachments/files/16971538/report_ExperimentalBiases_ivan.pdf)
+[ExperimentalBiases.pdf](https://github.com/user-attachments/files/16987210/ExperimentalBiases.pdf)
