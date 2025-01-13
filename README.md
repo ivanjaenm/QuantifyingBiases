@@ -1,7 +1,7 @@
 # Quantifying modern inductive biases for deep learning
 
-Inductive biases, broadly speaking, implicitly encourage the machine learning process to prioritize solutions with certain properties. For instance, the classical inductive bias of SGD, studied in this class, favors towards finding minimum norm solutions. Similarly, other definitions of inductive biases have recently been introduced in the deep learning literature. Each having a particular set of assumptions and being specific to a particular stage in the machine learning pipeline, i.e. the training distribution, the choice of architecture, the optimization algorithm, etc.
-In this work, we perform 1) a comprehensive review of simplicity biases, identifying their notions of “simple”, main assumptions and investigating possible relationships. Additionally, 2) we experimentally quantify some of these biases across MLPs under different settings.
+Inductive biases, in broad terms, guide machine learning models toward solutions with specific properties. For example, the classical inductive bias of stochastic gradient descent (SGD), studied in this class, favor minimum norm solutions. Similarly, recent developments in deep learning have introduced various definitions of inductive biases, each associated with specific assumptions and stages of the machine learning pipeline, such as the training distribution, architectural choices, and optimization algorithms. In this work, we present: 1) a comprehensive review of simplicity biases, analyzing their definitions of “simple”, underlying assumptions, and potential interrelationships. Additionaly we conduct 2) an experimental investigation quantifying these biases in multilayer perceptrons (MLPs) across different settings. Our findings reveal key dependencies between biases and provide insights into their broader implications.
+
 
 # Research report
 
